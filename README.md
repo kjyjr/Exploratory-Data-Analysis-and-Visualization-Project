@@ -1,6 +1,5 @@
-# Group_Project_1_EV
+# Internal Combustion Engine (ICE) Vehicles vs Electric Vehicles (EVs)
 
-# ICE vs EV's
 # Group Members
 Lindsay Robbins, Cassandra Wyatt, Jerry Youngblood, and Mitchell Ryan
 # Project Description 
