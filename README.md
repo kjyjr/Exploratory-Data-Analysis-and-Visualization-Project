@@ -43,5 +43,10 @@ There are many factors to be considered when determining the total life cycle GH
 ![alt text](image-1.png)
 
 - Which fuel type is more cost-efficient?
+Prices shown over the years for electricity as fuel have been steady, but gas prices are not as consistent given that the price of gas can always fluctuate. Even with the gallon-equivalent of electricity being higher than gas, electricity is still less expensive overall because the amount of electricity needed for EV is less than gallons of gas needed for ICE vehicles.
+
+![alt text](image-3.png)
+![alt text](image-4.png)
+![alt text](image-5.png)
 
 - What are the key considerations for charging an EV?
