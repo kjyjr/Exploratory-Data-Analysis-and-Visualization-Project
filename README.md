@@ -50,3 +50,25 @@ Prices shown over the years for electricity as fuel have been steady, but gas pr
 ![alt text](image-5.png)
 
 - What are the key considerations for charging an EV?
+    When deciding on an electric vehicle, considerations to include should be:
+  - What is the driving range of thevehicle when fully charged?
+  - How many charging stations are available in my city and state?
+Both considerations will be important for daily driving needs as well as planning trips by car.
+
+Most of the top 20 vehicles in terms of driving range are in excess of 300 miles. Tesla has the most models with high driving ranges - 4 in the top 10 (330 to 405 miles).
+
+![alt text](image-2.png)
+
+Availability of charging stations abounds in California. After California,a few states have more than 2,000 stations per state. Most other states are below 2,000 stations. Tesla stations account for only a fraction of total state stations.
+
+![alt text](image-6.png)
+
+Most cities across the US have fewer than 500 charging stations. And with the exception of New York, Tesla has 50 or fewer stations per city.
+
+![alt text](image-7.png)
+
+## SUMMARY / FINAL CONCLUSION
+
+- ICE vehicles produce almost five times more GHG emissions annually than fully electric vehicles.
+- Electric vehicles have a cheaper fuel cost nationally, resulting in a cheaper way to travel from place to place.
+- Vehicle driving range and charging station availability will be important considerations in decision-making about an electric vehicle.
