@@ -12,8 +12,8 @@ Analyzing the pros/cons of owning an EV vs an ICE vehicle
 
 ## Research Questions to be Answered
 
+- What is the current trend in vehicle registrations?
 - What is the carbon footprint of ICE vs EVs?
-- What is the operating & maintenance cost comparison over 5 years for an EV/ICE Vehicle? (This information is not addressed due to missing a team member for presentation)
 - Which fuel type is more cost-efficient?
 - What are the key considerations for charging an EV?
 
@@ -29,3 +29,19 @@ Analyzing the pros/cons of owning an EV vs an ICE vehicle
 - <https://afdc.energy.gov/calc/cost_calculator_methodology.html#sources>
 - <https://developers.enode.com/api/reference#introduction>
 - <https://www.eia.gov/dnav/pet/pet_pri_gnd_a_epm0_pte_dpgal_w.htm>
+
+## Conclusions
+
+- What is the current trend in vehicle registrations?
+EV, plug-in hybrid electric (PHEV), and hybrid electric vehicle (HEV) registrations have increased about 20-25% year-over-year in the last three years and risen overall by 52% from 2020 through 2022. HEVs continue to make up the majority of electric vehicles registered. However, fully electric vehicle registrations more than doubled from 2020 to 2022.
+
+![alt text](image.png)
+
+- What is the carbon footprint of ICE vs EVs?
+There are many factors to be considered when determining the total life cycle GHG emissions of an EV, PHEV, or HEV. Although those vehicles produce zero tailpipe GHG emissions when running on 100% electricity, the source of electricity used to charge the vehicle - as well as all the aspects of production of the vehicle - should be considered. Overall, gasoline-powered vehicles produce less emissions than EVs during initial production but more emissions during the overall life cycle of the vehicle.
+
+![alt text](image-1.png)
+
+- Which fuel type is more cost-efficient?
+
+- What are the key considerations for charging an EV?
